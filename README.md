@@ -103,8 +103,6 @@ Currently I'm focused on building production-ready applications using **Laravel,
 
 <p>
 
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai"/>
-
 <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google"/>
 
 <img src="https://img.shields.io/badge/RAG-0FA4AF?style=for-the-badge"/>
