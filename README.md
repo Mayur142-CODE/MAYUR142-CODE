@@ -6,7 +6,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Mayur142-CODE&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
 
-<a href="https://linkedin.com/in/mayur-chavda433">
+<a href="https://linkedin.com/in/mayur-chavda1214">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -191,15 +191,14 @@ Laravel • Livewire • Bootstrap • MySQL
 
 🥇 Gold Medalist — Diploma Engineering
 
-🥈 Bug Hunter Competition — 2nd Rank
+🥈 Third Byte (Hackthon) — Runner Up
 
-📜 IBM SkillsBuild — Retrieval-Augmented Generation
+🥈 Bug Hunter Competition — 2nd Rank
 
 📜 Cisco — Introduction to Cybersecurity
 
 📜 Infosys Springboard — Python Fundamentals
 
-📜 Google Cloud Essentials
 
 ---
 
@@ -231,62 +230,17 @@ Laravel • Livewire • Bootstrap • MySQL
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mayur142-CODE&theme=tokyonight&row=1&column=6&margin-w=15&no-frame=true"/>
-
-</div>
-
----
 
 # 🌱 Currently Learning
 
 ```text
-📱 Flutter Development
+📱 .NET Development
 ☁️ Cloud Deployment (AWS & Docker)
 🤖 AI Engineering & RAG
-⚛️ Advanced React Patterns
+⚛️ MERN STACK
 🏗️ System Design
 🚀 Building SaaS Products
 ```
-
----
-
-# 🎯 2026 Goals
-
-- 🚀 Launch a successful SaaS product
-- 🤖 Become a Full Stack + AI Engineer
-- 🌍 Work remotely with global companies
-- ⭐ Contribute regularly to Open Source
-- 📱 Publish Flutter applications
-- ☁️ Master Cloud & DevOps
-- 💡 Build products that solve real-world problems
-
----
-
-# 🐍 Contribution Snake
-
-> **Enable this after adding the GitHub Action workflow.**
-
-<p align="center">
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/Mayur142-CODE/Mayur142-CODE/output/github-contribution-grid-snake-dark.svg"/>
-
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/Mayur142-CODE/Mayur142-CODE/output/github-contribution-grid-snake.svg"/>
-
-<img alt="Contribution Snake"
-src="https://raw.githubusercontent.com/Mayur142-CODE/Mayur142-CODE/output/github-contribution-grid-snake.svg"/>
-
-</picture>
-
-</p>
-
 ---
 
 # 🤝 Let's Connect
@@ -297,16 +251,12 @@ src="https://raw.githubusercontent.com/Mayur142-CODE/Mayur142-CODE/output/github
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/mayur-chavda433">
+<a href="https://linkedin.com/in/mayur-chavda1214">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Mayur142-CODE">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://kara-q-client-zeta.vercel.app">
-<img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
 </div>
