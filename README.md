@@ -145,8 +145,6 @@ Laravel • PHP • MySQL • Bootstrap • Gemini API
 
 - AI Email Generator
 - AI Notes
-- AI Content Generator
-- Resume Generator
 - Website Generator
 
 ---
@@ -202,17 +200,17 @@ Laravel • Livewire • Bootstrap • MySQL
 
 # 📊 GitHub Analytics
 
+# 📊 GitHub Analytics
+
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mayur142-CODE&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mayur142-CODE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="170" src="https://streak-stats.demolab.com?user=Mayur142-CODE&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur142-CODE&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayur142-CODE&theme=tokyonight"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur142-CODE&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
