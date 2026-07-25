@@ -200,17 +200,12 @@ Laravel • Livewire • Bootstrap • MySQL
 
 # 📊 GitHub Analytics
 
-# 📊 GitHub Analytics
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mayur142-CODE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="170" src="https://streak-stats.demolab.com?user=Mayur142-CODE&theme=tokyonight&hide_border=true"/>
 
 <br><br>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur142-CODE&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
