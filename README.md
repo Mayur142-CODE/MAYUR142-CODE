@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6C63FF,35:8A2BE2,70:00C6FF,100:00E5FF&text=Mayur%20Chavda&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20to%20Remote%20Opportunities&descAlignY=58"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1200&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Mayur+Chavda;Full+Stack+Developer;Laravel+%7C+React+%7C+Flutter+%7C+Node.js;Building+AI-Powered+Applications;Always+Learning+Something+New)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1200&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Mayur+Chavda;Full+Stack+Developer;Laravel+%7C+React+%7C+Node.js;Building+AI-Powered+Applications;Always+Learning+Something+New)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Mayur142-CODE&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
 
