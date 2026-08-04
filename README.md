@@ -1,4 +1,6 @@
 <div align="center">
+<img width="1440" height="1080" alt="image" src="https://github.com/user-attachments/assets/4b0898a7-9ac8-4180-907e-77d14b451ddf" />
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6C63FF,35:8A2BE2,70:00C6FF,100:00E5FF&text=Mayur%20Chavda&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20to%20Remote%20Opportunities&descAlignY=58"/>
 
