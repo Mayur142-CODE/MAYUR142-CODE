@@ -21,7 +21,7 @@ I'm a **Full Stack Developer** and **B.Tech Computer Engineering student** who e
 ### 🛠️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=laravel,php,react,ts,js,nodejs,express,python,java,flutter,mysql,postgres,mongodb,supabase,git,github,docker"/>
+<img src="https://skillicons.dev/icons?i=laravel,php,react,ts,js,nodejs,express,python,java,mysql,mongodb,supabase,git,github"/>
 </p>
 
 ---
